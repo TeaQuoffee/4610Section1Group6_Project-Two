@@ -29,9 +29,9 @@ The dataset we have chosen is [MTA Daily Ridership Data: 2020-2025](https://cata
 # 2 Questions and Why? 
 Question 1: How did daily subway ridership change from 2020 to 2025?
 - Why is this question important and interesting? The subway system is a freuqently traffic mode of transportation by new yorkers. As a result the change in ridership of the subway would be the best indicator of how citizen's commuting to work, shopping, etc. has improved and New York City is recovering from the pandemic. The results of this question can help city officials, transportation coordinators, and other government officials understand the length of a recovery if a major event were to happen like this again and the habits New York City citizens practice and how they can appeal to them such as what times of the year citizens use transportation more.
-
+  
 Question 2: Which MTA transportation mode recovered fastest compared to pre-pandemic levels?
-- 
+- Why is this 
 
 # Manipulations Applied to the Dataset 
 # Analysis and Results 
