@@ -9,8 +9,8 @@ Team F25MIST4610_59925_Group6
 # Our Dataset and What it Contains
 The dataset we have chosen is [MTA Daily Ridership Data: 2020-2025](https://catalog.data.gov/dataset/mta-daily-ridership-data-beginning-2020) . This data was published by the Metropolitan Transportation Authority (MTA) of New York. The dataset contains information on systemwide daily ridership and traffic estimates across multiple modes of transportation (railways, buses, bridges, and tunnels). The collection of data begins January 1st 2020, while also providing data from the pre-pandemic date for comparison. The collection continues into December 31st 2024 with 1776 days worth of data. The MTA tracks the usage of transportation and traffic patterns to show changes pre pandemic, during the pandemic, and post pandemic. 
 
-- There are 1,776 rows, each row corresponds to [a single day]. 
-- There are 15 columns, each column represents a piece of information
+- There are 1,776 rows, each row corresponds to: a single day 
+- There are 15 columns, each column represents a piece of information: 
 1. date
 2. subways: total estimated ridership
 3. subways: % of comparable pre-pandemic day
