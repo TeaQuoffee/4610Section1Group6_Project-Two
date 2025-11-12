@@ -1,11 +1,11 @@
 # 4610 Group Project 2 
 Team F25MIST4610_59925_Group6
 # Group Members 
-1. Sulema Gonzalez
-2. Iris Huang
-3. Abby Simmavanh
-4. Julia Tardy
-5. Jay Tran 
+1. Sulema Gonzalez [@sulemagonzalez90](https://github.com/sulemagonzalez90)
+2. Iris Huang [@ih1024](https://github.com/ih1024)
+3. Abby Simmavanh [@asmmi27](https://github.com/asmmi27)
+4. Julia Tardy [@jutardy32](https://github.com/jutardy32)
+5. Jay Tran  [@TeaQuoffee](https://github.com/TeaQuoffee)
 # Our Dataset and What it Contains
 The dataset we have chosen is [MTA Daily Ridership Data: 2020-2025](https://catalog.data.gov/dataset/mta-daily-ridership-data-beginning-2020) . This data was published by the Metropolitan Transportation Authority (MTA) of New York. The dataset contains information on systemwide daily ridership and traffic estimates across multiple modes of transportation (railways, buses, bridges, and tunnels). The collection of data begins January 1st 2020, while also providing data from the pre-pandemic date for comparison. The collection continues into December 31st 2024 with 1776 days worth of data. The MTA tracks the usage of transportation and traffic patterns to show changes pre pandemic, during the pandemic, and post pandemic. 
 
